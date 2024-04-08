@@ -1,0 +1,89 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "UX:me"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "UX:me"
+  description: "UX:me creates digital experiences the way people think and work."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#k"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    # dribbble: "#"
+    # instagram: "#"
+    # facebook: "#"
+    # twitter: "#"
+
+  location:
+    - "Stockholm, Sweden 🇸🇪"
+
+  contact:
+    - "please@ux-me.se"
+
+  copyright: "© 2024 UX:me AB"
+
+menus:
+  # main:
+  #   - name: "Home"
+  #     url: "/#hero"
+  #     weight: 1
+
+  #   - name: "How we work"
+  #     url: "/#"
+  #     weight: 2
+
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 3
+
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
+
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
+
+  buttons:
+    - name: "Get in touch"
+      url: "mailto:please@ux-me.se"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 3
+
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
+
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
