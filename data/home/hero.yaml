@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Technology **made  for humans** - not machines."
+  title: "Technology **made  for humans** - not machines"
   text: "UX:me creates digital experiences the way people think and work."
 
   # buttonPrimary:
