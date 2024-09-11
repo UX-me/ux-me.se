@@ -36,14 +36,14 @@ params:
   copyright: "© 2024 UX:me AB"
 
 menus:
-  # main:
-  #   - name: "Home"
-  #     url: "/#hero"
-  #     weight: 1
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
 
-  #   - name: "How we work"
-  #     url: "/#"
-  #     weight: 2
+    # - name: "EG Numbers App"
+    #   url: "/egyptian-numbers-app"
+    #   weight: 2
 
     # - name: "Our team"
     #   url: "/#"
